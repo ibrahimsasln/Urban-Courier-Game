@@ -1,0 +1,74 @@
+# Unity.gitignore (tailored)
+# Keep only the essential Unity project files in Git:
+#   Assets/ Packages/ ProjectSettings/ (and optionally: .gitignore, .gitattributes, README.md)
+# Exclude transient, machine-local, and build artifacts that cause huge repos.
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Burst/IL2CPP/Bee caches
+[Bb]ee/
+[Bb]urstCache/
+
+# Rider/VS/IDE caches
+.vs/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.csproj
+*.pidb
+*.user
+*.userprefs
+
+# Gradle/Android
+.gradle/
+ExportedProject/
+
+# Crash reports
+CrashReports/
+
+# Asset Store tools
+[Aa]ssets/**/AssetStoreTools*
+
+# Addressables / StreamingAssets generated content (keep if you hand-author)
+[Aa]ssets/AddressableAssetsData/*/*.bin
+[Aa]ssets/StreamingAssets/aa/*
+
+# Unity Cloud / Collaborate
+[Aa]ssets/UnityCollaborate/*
+
+# Script assemblies
+[Ll]ibrary/ScriptAssemblies/
+
+# VS Code settings (optional: remove if you want to share workspace settings)
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Packed builds or archives
+*.apk
+*.aab
+*.ipa
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# TextMesh Pro generated (safe to regenerate)
+[Aa]ssets/TextMesh Pro/**/Resources/*
+
+# Backups
+*.bak
+*.tmp
+~$*
