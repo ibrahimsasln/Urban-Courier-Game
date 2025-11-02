@@ -63,8 +63,12 @@ Add your images into the `Screenshots/` folder in this repository and they will 
 - Art/Prefabs: `Assets/GameDev.tv - Delivery Dash Assets/` (from GameDev.tv course assets)
 - UI: TextMesh Pro
 
+### Assets note
+The visual assets come from the GameDev.tv Delivery Dash course pack and are included here only for learning/showcase purposes with this project. Please check the original provider’s terms if you plan to reuse them outside this repository.
+
 ## License
-Add a license that suits your needs (e.g., MIT). Ensure any third‑party assets are used per their licenses.
+Code is released under the MIT License — see `LICENSE`.
+Third‑party art/assets remain under their respective licenses.
 
 ## Git Tips (clean pushes)
 If you mistakenly staged huge Unity folders before `.gitignore` existed, untrack them and push cleanly:
