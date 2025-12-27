@@ -23,9 +23,9 @@ I followed the lessons and also tried to solve the small challenges by myself.
 - Project organization and Git/GitHub basics
 
 ## Screenshots
-![Gameplay](Screenshots/ss1.png)
-![Pickup](Screenshots/ss2.png)
-![Boost](Screenshots/ss3.png)
+![Boost](Screenshots/boost.png)
+![Pickup](Screenshots/icecream-pickup.png)
+![Pickup Effect](Screenshots/pickup-effect.png)
 
 ## Notes
 This is a learning project (tutorial-based).
