@@ -1,4 +1,4 @@
-# Delivery Game (Unity 2D)
+# Urban Courier Game (Unity 2D)
 
 This is my first Unity game (top-down delivery game) from the GameDev.tv Udemy course.
 
